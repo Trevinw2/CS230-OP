@@ -16,3 +16,4 @@ My interpretation of the UML diagram. I would make it more specific.
 I interpreted the user needs by evaluating what they were saying and putting into the frame of programming. The user's needs not only help you with adding functions to your project but by eliminating a need others might have also. 
 
 # How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+Designing software is about having a good plan and building towards that goal. You find out the requirements and things then begin with your process. I would improve the planning phase. I want a clear blueprint of where we are trying to go. We can adjust from there.
